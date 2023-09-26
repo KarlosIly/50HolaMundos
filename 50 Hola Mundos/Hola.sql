@@ -1,0 +1,2 @@
+SELECT 'Hola Mundo!'
+FROM DUAL
